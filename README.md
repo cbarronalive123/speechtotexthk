@@ -33,13 +33,9 @@ Right-click the tray icon and select **Quit** to close the application.
 
 ### Pre-built executable
 
-A compiled EXE is included in the `dist/` folder:
+Download the latest compiled EXE from the [GitHub Releases](https://github.com/cbarronalive123/speechtotexthk/releases) page.
 
-```
-dist\SpeechToText.exe
-```
-
-Double-click it to run. No console window appears.
+Double-click `SpeechToText.exe` to run. No console window appears.
 
 ### Run from source
 
